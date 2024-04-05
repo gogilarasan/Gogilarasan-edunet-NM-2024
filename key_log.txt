@@ -1,0 +1,1 @@
+Key.caps_lock'h'Key.caps_lock'o''w'Key.space't''o'Key.space'v'Key.backspace'g''o'Key.space't''o'Key.space'm''a''h''a''b''a''l''i''p''u''r''a''m'Key.enterKey.cmdKey.print_screen
